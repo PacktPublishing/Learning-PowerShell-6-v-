@@ -1,5 +1,5 @@
 # Learning PowerShell 6 [Video]
-This is the code repository for [Learning PowerShell 6 [Video]](https://www.packtpub.com/virtualization-and-cloud/learning-powershell-6-video?utm_source=github&utm_medium=repository&utm_campaign=9781787127135), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Learning PowerShell 6 [Video]]
 ## About the Video Course
 	Windows PowerShell is a task-based command-line shell and scripting language designed specifically for system administration. Built on the .NET Framework, Windows PowerShell helps IT professionals and power users control and automate the administration of the Windows operating system and applications that run on Windows.
 This video is designed to help you get up and running with PowerShell, taking you from the basics of installation to writing scripts and web server automation. This will act as an introduction to the central topics of PowerShell, from finding and understanding PowerShell commands and packaging code for reusability right through to a practical example of automating IIS. It also includes topics such as installation and setup, creating scripts, automating tasks, and using PowerShell to access data stores, registry, and file systems. 
